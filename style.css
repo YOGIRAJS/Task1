@@ -1,0 +1,66 @@
+.heading{
+    border-style: solid;
+    border-color: #4b6cc1;
+    padding: 10px;
+    font-weight: 700;
+}
+
+#navItem1{
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2{
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3{
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4{
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem5{
+    color: white;
+    font-family: "Roboto";
+}
+
+.bg-color{
+    background-color: black;
+    text-align: center;
+}
+
+.img{
+    padding: 10px;
+    margin: 15px;
+}
+
+span{
+    color: #4b6cc1;
+    font-size: 90px;
+    font-weight: 500px;
+}
+
+.head{
+    color: white;
+    font-size: 90px;
+    font-weight: 500px;
+}
+
+.para{
+    color: #9aa5b1;
+    font-size: 50px;
+    font-weight: 300px;
+}
+
+.button{
+    color: white;
+    border-radius: 6px;
+    margin: 5px;
+    background-color: #4b6cc1;
+}
